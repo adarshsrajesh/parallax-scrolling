@@ -13,7 +13,7 @@ window.addEventListener('scroll' ,() => {
     avatar.style.top = a*(.3)+'px'
     quote.style.top = a*(.3)+'px'
     icon.style.left=a*(-.1)+'px'
-    smoke.style.right = a*(-.1)+'px'
+ 
     
    
 
